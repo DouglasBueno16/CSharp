@@ -2,6 +2,12 @@
 
 public class Pessoa
 {
+    public Pessoa(string nome, string sobrenome)
+    {
+        // Método construtor
+        Nome = nome;
+        Sobrenome = sobrenome;
+    }
     private string _nome;  // campo privado para armazenar o nome
     public string Nome
     {
@@ -33,7 +39,7 @@ public class Pessoa
             }
             _idade = value;
         }
-        
+
     }
 
     public void Apresentar()

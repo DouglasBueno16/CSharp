@@ -2,7 +2,6 @@
 Propriedades e métodos construtores
 */
 
-using System.ComponentModel.Design.Serialization;
 using PropriedadesMetodosConstrutores;
 
 Pessoa p1 = new Pessoa(nome: "Douglas", sobrenome: "Bueno");

@@ -1,0 +1,2 @@
+Linha 1 - Este é um exemplo de arquivo 
+Linha 2 - This is a file example
